@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ventsiiliev&show_icons=true&locale=en" alt="ventsiiliev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ventsiiliev&" alt="ventsiiliev" /></p>
+
+<p><img align="center" src="https://softuni.bg/certificates/details/164079/e45fb757" alt="ventsiiliev" /></p>
